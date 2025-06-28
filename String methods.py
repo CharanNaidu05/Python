@@ -1,0 +1,11 @@
+name = input("Enter your full name: ")
+
+# result = len (name)
+# result = name.find("o")
+# result = name. rfind ("q")
+# name = name. capitalize()
+# name = name. upper ()
+# name = name. lower ()
+# result = name.isdigit()
+# result = name.isalpha ()
+print(result)

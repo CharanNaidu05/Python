@@ -1,0 +1,5 @@
+phone_number = input ("Enter your phone Number: ")
+#result = phone_number.count("-")
+#result = phone_number.replace("-", " ")
+result = phone_number.replace("-", "")
+print(result)
